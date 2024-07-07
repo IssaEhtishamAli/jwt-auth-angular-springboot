@@ -88,8 +88,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ## Project Structure
 
-\`\`\`plaintext
-JwtAuthentication/
+``` plaintext
+JwtAuthentication
 ├── backend/
 │   ├── src/
 │   │   ├── main/
@@ -106,4 +106,4 @@ JwtAuthentication/
 │   │   └── index.html
 │   └── angular.json
 └── README.md
-\`\`\`
+```
